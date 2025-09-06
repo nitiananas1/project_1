@@ -1,0 +1,16 @@
+google-generativeai
+pdfplumber
+pytesseract
+Pillow
+pdf2image
+python-docx
+spacy
+python-dotenv
+requests
+beautifulsoup4
+requests
+beautifulsoup4
+google-api-python-client
+streamlit
+Flask
+Flask-Cors
